@@ -19,7 +19,7 @@ const Navbar = ({ darkMode, setDarkMode }) => {
 
 				<h1 className='text-2xl sm:text-3xl lg:text-4xl px-2'>
 					Dely
-					<span className='text-red-700 font-bold dark:text-blue-900 font-bold'>
+					<span className='text-red-700 font-bold dark:text-blue-900'>
 						Food
 					</span>
 				</h1>
