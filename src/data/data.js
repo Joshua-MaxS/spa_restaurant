@@ -204,40 +204,4 @@ export const categories = [
 		image:
 			'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672070207/NetflixApp/sharwama_logo_st4vg8.png',
 	},
-	{
-		id: 7,
-		name: 'resottoa',
-		image:
-			'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672176749/NetflixApp/resotto_logo_uywrr1.png',
-	},
-	{
-		id: 8,
-		name: 'cake',
-		image:
-			'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672176749/NetflixApp/cake_edpoec.png',
-	},
-	{
-		id: 9,
-		name: 'chiken',
-		image:
-			'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672176749/NetflixApp/chiken_logo_ahl2ca.png',
-	},
-	{
-		id: 10,
-		name: 'ice cream',
-		image:
-			'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672176749/NetflixApp/ice_cream_logo_hcqcaa.png',
-	},
-	{
-		id: 11,
-		name: 'beef',
-		image:
-			'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672176749/NetflixApp/beef_logo_adnidz.png',
-	},
-	{
-		id: 12,
-		name: 'apple pie',
-		image:
-			'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672176749/NetflixApp/appple_pie_yxfxpm.png',
-	},
 ];

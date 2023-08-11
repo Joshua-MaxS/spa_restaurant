@@ -4,6 +4,7 @@ import { useState } from 'react';
 import { Delivery } from './components/Delivery';
 import { TopPicks } from './components/TopPicks';
 import { Meal } from './components/Meal';
+import { Categories } from './components/Categories';
 
 function App() {
 	const [darkMode, setDarkMode] = useState(true);
@@ -15,6 +16,7 @@ function App() {
 				<Delivery />
 				<TopPicks />
 				<Meal />
+				<Categories />
 			</main>
 		</div>
 	);
