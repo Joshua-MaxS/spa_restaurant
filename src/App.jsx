@@ -6,6 +6,7 @@ import { TopPicks } from './components/TopPicks';
 import { Meal } from './components/Meal';
 import { Categories } from './components/Categories';
 import { NewsLetter } from './components/NewsLetter';
+import { Footer } from './components/Footer';
 
 function App() {
 	const [darkMode, setDarkMode] = useState(true);
@@ -19,6 +20,7 @@ function App() {
 				<Meal />
 				<Categories />
 				<NewsLetter />
+				<Footer />
 			</main>
 		</div>
 	);
