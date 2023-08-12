@@ -1,6 +1,6 @@
 const NewsLetter = () => {
 	return (
-		<div className='max-w-[1520px] m-auto text-white bg-[#24262b] dark:bg-gray-900'>
+		<div className='max-w-[1520px] m-auto text-white bg-gray-900'>
 			<div className='mx-auto grid lg:grid-cols-3 '>
 				<div className='lg:col-span-2 my-4'>
 					<h1>Need advice on how to improve your flow?</h1>
@@ -21,7 +21,7 @@ const NewsLetter = () => {
 					</div>
 					<p>
 						we are concerned about the security of your data, Read {''}
-						<span className='text-blue-500 dark:text-red-400 cursor-pointer'>
+						<span className='text-blue-500 dark:text-red-500 cursor-pointer'>
 							Pricavy Policy
 						</span>
 					</p>
