@@ -1,8 +1,17 @@
-# React + Vite
+# YouFood
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A single page application(SPA) that simulates the page of a restaurant
 
-Currently, two official plugins are available:
+## Technologies
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React
+- Tailwind CSS
+- React Icons
+
+## Features
+
+- light/dark mode
+- Live previews
+- Fullscreen mode
+- Responsive
+- Hover effects
